@@ -1,0 +1,202 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg-canvas: #f8faf9;
+  --bg-surface: #ffffff;
+  --bg-muted: #f1f5f3;
+  --bg-drafting: #edf2ef;
+  --border-subtle: #e4ebe7;
+  --text-primary: #0b1519;
+  --text-secondary: #47555b;
+  --text-muted: #59676d;
+  --accent-primary: #107c41;
+  --accent-primary-hover: #0d6635;
+  --accent-on-primary: #ffffff;
+  --accent-tint: #e8f7ef;
+  --accent-lime: #c8f550;
+}
+
+.dark {
+  --bg-canvas: #081611;
+  --bg-surface: #0f241c;
+  --bg-muted: #142d23;
+  --bg-drafting: #050f0b;
+  --border-subtle: #1e3d31;
+  --text-primary: #f4f7f5;
+  --text-secondary: #a8bfb4;
+  --text-muted: #8ea89c;
+  --accent-primary: #c8f550;
+  --accent-primary-hover: #d6fb72;
+  --accent-on-primary: #081611;
+  --accent-tint: rgba(200, 245, 80, 0.12);
+  --accent-lime: #c8f550;
+}
+
+@theme inline {
+  --font-sans: var(--font-dm-sans), system-ui, sans-serif;
+  --font-display: var(--font-jakarta), system-ui, sans-serif;
+  --font-serif: var(--font-newsreader), Georgia, serif;
+  --font-mono: var(--font-jetbrains), monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-canvas);
+  color: var(--text-primary);
+  font-family: var(--font-dm-sans), system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+/* 60fps GPU-composited circular View Transition for Light <-> Dark theme switch */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-old(root) {
+  z-index: 1;
+}
+
+::view-transition-new(root) {
+  z-index: 9999;
+}
+
+.font-display {
+  font-family: var(--font-jakarta), system-ui, sans-serif;
+}
+
+.font-editorial {
+  font-family: var(--font-newsreader), Georgia, serif;
+}
+
+.font-mono-code {
+  font-family: var(--font-jetbrains), monospace;
+}
+
+/* Silk organic wave backdrop (Light = Emerald mist, Dark = Deep forest spotlight) */
+.hero-silk-bg {
+  background:
+    radial-gradient(60% 55% at 88% 12%, rgba(16, 124, 65, 0.16) 0%, rgba(16, 124, 65, 0.04) 48%, transparent 72%),
+    radial-gradient(45% 45% at 10% 88%, rgba(200, 245, 80, 0.14) 0%, transparent 65%);
+}
+
+.dark .hero-silk-bg {
+  background:
+    radial-gradient(58% 52% at 82% 18%, rgba(200, 245, 80, 0.13) 0%, rgba(16, 124, 65, 0.12) 42%, transparent 72%),
+    radial-gradient(48% 48% at 14% 85%, rgba(16, 185, 129, 0.10) 0%, transparent 68%);
+}
+
+/* Realistic stationery A4 sheet shadow */
+.a4-sheet-shadow {
+  box-shadow:
+    0 22px 50px -16px rgba(11, 21, 25, 0.16),
+    0 6px 18px -6px rgba(11, 21, 25, 0.08),
+    0 0 0 1px rgba(11, 21, 25, 0.05);
+}
+
+.dark .a4-sheet-shadow {
+  box-shadow:
+    0 28px 64px -14px rgba(0, 0, 0, 0.65),
+    0 10px 24px -8px rgba(0, 0, 0, 0.45),
+    0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+/* Studio elevated card shadow */
+.studio-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  box-shadow: 0 10px 30px -14px rgba(11, 21, 25, 0.08);
+}
+
+.dark .studio-card {
+  box-shadow: 0 14px 36px -14px rgba(0, 0, 0, 0.45);
+}
+
+/* Hide scrollbars cleanly on horizontal pill rails */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Global WCAG Keyboard Focus-Visible Ring */
+:where(a, button, input, textarea, select, [tabindex]):focus-visible {
+  outline: 2px solid var(--accent-primary);
+  outline-offset: 2px;
+}
+
+/* Respect OS Reduced Motion Preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Interactive Live-Editable .DOCX Canvas Styles */
+.docx-live-stage section.docx {
+  box-shadow: none !important;
+  margin: 0 auto !important;
+  background: #ffffff !important;
+}
+.rf-editable-node {
+  cursor: text;
+  border-radius: 3px;
+  transition: outline 120ms ease, background-color 120ms ease;
+}
+.rf-editable-node:hover {
+  outline: 1.5px dashed rgba(16, 124, 65, 0.55);
+  background-color: rgba(16, 124, 65, 0.05);
+}
+.rf-editable-node:focus {
+  outline: 2px solid #107c41;
+  background-color: rgba(16, 124, 65, 0.09);
+}
+.rf-editable-img {
+  transition: outline 140ms ease, filter 140ms ease;
+}
+.rf-editable-img:hover {
+  outline: 2.5px dashed #107c41;
+  outline-offset: 2px;
+  filter: brightness(0.95);
+}
+
+/* Print-ready A4 PDF export rules */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 0;
+  }
+  body * {
+    visibility: hidden !important;
+  }
+  #a4-print-root,
+  #a4-print-root * {
+    visibility: visible !important;
+  }
+  #a4-print-root {
+    position: fixed !important;
+    inset: 0 !important;
+    width: 210mm !important;
+    min-height: 297mm !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    transform: none !important;
+    background: #ffffff !important;
+    color: #0b1519 !important;
+    z-index: 99999 !important;
+  }
+}

@@ -1,0 +1,3215 @@
+[
+  {
+    "id": "id-vol-01",
+    "volume": 1,
+    "title": "Vol. 01 \u2014 Executive Clarity",
+    "shortTitle": "Vol. 01 Executive",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "executive",
+    "accentColor": "#107C41",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.1/PDF/01_yellow-version.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.1/WORD/01_yellow-version.docx",
+    "thumbnail": "/thumbnails/id-vol-01.webp",
+    "variantCount": 2,
+    "variants": [
+      {
+        "label": "01_yellow-version",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.1/PDF/01_yellow-version.pdf"
+      },
+      {
+        "label": "02_silver-version",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.1/PDF/02_silver-version.pdf"
+      },
+      {
+        "label": "01_yellow-version",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.1/WORD/01_yellow-version.docx"
+      },
+      {
+        "label": "02_silver-version",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.1/WORD/02_silver-version.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-02",
+    "volume": 2,
+    "title": "Vol. 02 \u2014 Swiss Architect",
+    "shortTitle": "Vol. 02 Swiss",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "swiss",
+    "accentColor": "#0F172A",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.2/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.2/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-02.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.2/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.2/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-03",
+    "volume": 3,
+    "title": "Vol. 03 \u2014 Editorial Press",
+    "shortTitle": "Vol. 03 Editorial",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "editorial",
+    "accentColor": "#1D4ED8",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.3/Blue Version/03_Blue_version.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.3/Blue Version/04_Blue_version.docx",
+    "thumbnail": "/thumbnails/id-vol-03.webp",
+    "variantCount": 2,
+    "variants": [
+      {
+        "label": "03_Blue_version",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.3/Blue Version/03_Blue_version.pdf"
+      },
+      {
+        "label": "03_Silver_version",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.3/Silver Version/03_Silver_version.pdf"
+      },
+      {
+        "label": "04_Blue_version",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.3/Blue Version/04_Blue_version.docx"
+      },
+      {
+        "label": "04_Silver_version",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.3/Silver Version/04_Silver_version.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-04",
+    "volume": 4,
+    "title": "Vol. 04 \u2014 Modern Product",
+    "shortTitle": "Vol. 04 Modern",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "modern-sidebar",
+    "accentColor": "#B45309",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.4/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.4/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-04.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.4/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.4/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-05",
+    "volume": 5,
+    "title": "Vol. 05 \u2014 Nordic Minimal",
+    "shortTitle": "Vol. 05 Nordic",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "technical",
+    "accentColor": "#0F766E",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.5/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.5/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-05.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.5/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.5/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-06",
+    "volume": 6,
+    "title": "Vol. 06 \u2014 Atelier Serif",
+    "shortTitle": "Vol. 06 Atelier",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "minimal",
+    "accentColor": "#4338CA",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.6/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.6/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-06.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.6/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.6/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-07",
+    "volume": 7,
+    "title": "Vol. 07 \u2014 Tech Lead",
+    "shortTitle": "Vol. 07 Tech",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "executive",
+    "accentColor": "#BE123C",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.7/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.7/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-07.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.7/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.7/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-08",
+    "volume": 8,
+    "title": "Vol. 08 \u2014 Studio Director",
+    "shortTitle": "Vol. 08 Studio",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "swiss",
+    "accentColor": "#374151",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.8/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.8/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-08.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.8/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.8/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-09",
+    "volume": 9,
+    "title": "Vol. 09 \u2014 Monograph Grid",
+    "shortTitle": "Vol. 09 Monograph",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "editorial",
+    "accentColor": "#107C41",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.9/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.9/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-09.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.9/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.9/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-10",
+    "volume": 10,
+    "title": "Vol. 10 \u2014 Zurich Clean",
+    "shortTitle": "Vol. 10 Zurich",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "modern-sidebar",
+    "accentColor": "#0F172A",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.10/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.10/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-10.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.10/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.10/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-11",
+    "volume": 11,
+    "title": "Vol. 11 \u2014 Capital Brief",
+    "shortTitle": "Vol. 11 Capital",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "technical",
+    "accentColor": "#1D4ED8",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.11/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.11/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-11.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.11/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.11/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-12",
+    "volume": 12,
+    "title": "Vol. 12 \u2014 Vanguard Split",
+    "shortTitle": "Vol. 12 Vanguard",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "minimal",
+    "accentColor": "#B45309",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.12/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.12/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-12.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.12/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.12/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "id-vol-13",
+    "volume": 13,
+    "title": "Vol. 13 \u2014 Linear Pro",
+    "shortTitle": "Vol. 13 Linear",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "executive",
+    "accentColor": "#0F766E",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.13/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.13/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-13.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.13/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.13/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-14",
+    "volume": 14,
+    "title": "Vol. 14 \u2014 Kinetix Resume",
+    "shortTitle": "Vol. 14 Kinetix",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "swiss",
+    "accentColor": "#4338CA",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.14/01_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.14/01_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-14.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "01_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.14/01_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "01_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.14/01_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-15",
+    "volume": 15,
+    "title": "Vol. 15 \u2014 Oxford Classic",
+    "shortTitle": "Vol. 15 Oxford",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "editorial",
+    "accentColor": "#BE123C",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.15/01_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.15/01_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-15.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "01_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.15/01_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "01_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.15/01_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-16",
+    "volume": 16,
+    "title": "Vol. 16 \u2014 Craft Folio",
+    "shortTitle": "Vol. 16 Craft",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "modern-sidebar",
+    "accentColor": "#374151",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.16/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.16/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-16.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.16/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.16/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-17",
+    "volume": 17,
+    "title": "Vol. 17 \u2014 Apex Executive",
+    "shortTitle": "Vol. 17 Apex",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "technical",
+    "accentColor": "#107C41",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.17/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.17/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-17.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.17/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.17/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-18",
+    "volume": 18,
+    "title": "Vol. 18 \u2014 Aether Minimal",
+    "shortTitle": "Vol. 18 Aether",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "minimal",
+    "accentColor": "#0F172A",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.18/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.18/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-18.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.18/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.18/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-19",
+    "volume": 19,
+    "title": "Vol. 19 \u2014 Foundry Grid",
+    "shortTitle": "Vol. 19 Foundry",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "executive",
+    "accentColor": "#1D4ED8",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.19/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.19/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-19.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.19/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.19/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-20",
+    "volume": 20,
+    "title": "Vol. 20 \u2014 Solstice Clean",
+    "shortTitle": "Vol. 20 Solstice",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "swiss",
+    "accentColor": "#B45309",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.20/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.20/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-20.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.20/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.20/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-21",
+    "volume": 21,
+    "title": "Vol. 21 \u2014 Vector Studio",
+    "shortTitle": "Vol. 21 Vector",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "editorial",
+    "accentColor": "#0F766E",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.21/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.21/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-21.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.21/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.21/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-22",
+    "volume": 22,
+    "title": "Vol. 22 \u2014 Meridian Two-Col",
+    "shortTitle": "Vol. 22 Meridian",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "modern-sidebar",
+    "accentColor": "#4338CA",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.22/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.22/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-22.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.22/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.22/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-23",
+    "volume": 23,
+    "title": "Vol. 23 \u2014 Slate Precision",
+    "shortTitle": "Vol. 23 Slate",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "technical",
+    "accentColor": "#BE123C",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.23/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.23/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-23.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.23/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.23/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-24",
+    "volume": 24,
+    "title": "Vol. 24 \u2014 Canvas Editorial",
+    "shortTitle": "Vol. 24 Canvas",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "minimal",
+    "accentColor": "#374151",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.24/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.24/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-24.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.24/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.24/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-25",
+    "volume": 25,
+    "title": "Vol. 25 \u2014 Aura Modern",
+    "shortTitle": "Vol. 25 Aura",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "executive",
+    "accentColor": "#107C41",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.25/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.25/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-25.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.25/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.25/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-26",
+    "volume": 26,
+    "title": "Vol. 26 \u2014 Vertex Technical",
+    "shortTitle": "Vol. 26 Vertex",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "swiss",
+    "accentColor": "#0F172A",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.26/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.26/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-26.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.26/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.26/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-27",
+    "volume": 27,
+    "title": "Vol. 27 \u2014 Prism Creative",
+    "shortTitle": "Vol. 27 Prism",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "editorial",
+    "accentColor": "#1D4ED8",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.27/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.27/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-27.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.27/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.27/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-28",
+    "volume": 28,
+    "title": "Vol. 28 \u2014 Summit Lead",
+    "shortTitle": "Vol. 28 Summit",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "modern-sidebar",
+    "accentColor": "#B45309",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.28/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.28/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-28.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.28/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.28/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-29",
+    "volume": 29,
+    "title": "Vol. 29 \u2014 Cortex Engineer",
+    "shortTitle": "Vol. 29 Cortex",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "technical",
+    "accentColor": "#0F766E",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.29/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.29/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-29.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.29/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.29/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-30",
+    "volume": 30,
+    "title": "Vol. 30 \u2014 Noir Contrast",
+    "shortTitle": "Vol. 30 Noir",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "minimal",
+    "accentColor": "#4338CA",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.30/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.30/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-30.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.30/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.30/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-31",
+    "volume": 31,
+    "title": "Vol. 31 \u2014 Executive Clarity",
+    "shortTitle": "Vol. 31 Executive",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "executive",
+    "accentColor": "#BE123C",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.31/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.31/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-31.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.31/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.31/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-32",
+    "volume": 32,
+    "title": "Vol. 32 \u2014 Swiss Architect",
+    "shortTitle": "Vol. 32 Swiss",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "swiss",
+    "accentColor": "#374151",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.32/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.32/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-32.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.32/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.32/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-33",
+    "volume": 33,
+    "title": "Vol. 33 \u2014 Editorial Press",
+    "shortTitle": "Vol. 33 Editorial",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "editorial",
+    "accentColor": "#107C41",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.33/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.33/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-33.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.33/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.33/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-34",
+    "volume": 34,
+    "title": "Vol. 34 \u2014 Modern Product",
+    "shortTitle": "Vol. 34 Modern",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "modern-sidebar",
+    "accentColor": "#0F172A",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.34/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.34/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-34.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.34/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.34/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-35",
+    "volume": 35,
+    "title": "Vol. 35 \u2014 Nordic Minimal",
+    "shortTitle": "Vol. 35 Nordic",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "technical",
+    "accentColor": "#1D4ED8",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.35/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.35/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-35.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.35/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.35/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-36",
+    "volume": 36,
+    "title": "Vol. 36 \u2014 Atelier Serif",
+    "shortTitle": "Vol. 36 Atelier",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "minimal",
+    "accentColor": "#B45309",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.36/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.36/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-36.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.36/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.36/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-37",
+    "volume": 37,
+    "title": "Vol. 37 \u2014 Tech Lead",
+    "shortTitle": "Vol. 37 Tech",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "executive",
+    "accentColor": "#0F766E",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.37/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.37/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-37.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.37/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.37/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-38",
+    "volume": 38,
+    "title": "Vol. 38 \u2014 Studio Director",
+    "shortTitle": "Vol. 38 Studio",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "swiss",
+    "accentColor": "#4338CA",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.38/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.38/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-38.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.38/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.38/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-39",
+    "volume": 39,
+    "title": "Vol. 39 \u2014 Monograph Grid",
+    "shortTitle": "Vol. 39 Monograph",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "editorial",
+    "accentColor": "#BE123C",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.39/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.39/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-39.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.39/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.39/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-40",
+    "volume": 40,
+    "title": "Vol. 40 \u2014 Zurich Clean",
+    "shortTitle": "Vol. 40 Zurich",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "modern-sidebar",
+    "accentColor": "#374151",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.40/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.40/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-40.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.40/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.40/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-41",
+    "volume": 41,
+    "title": "Vol. 41 \u2014 Capital Brief",
+    "shortTitle": "Vol. 41 Capital",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "technical",
+    "accentColor": "#107C41",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.41/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.41/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-41.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.41/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.41/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-42",
+    "volume": 42,
+    "title": "Vol. 42 \u2014 Vanguard Split",
+    "shortTitle": "Vol. 42 Vanguard",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "minimal",
+    "accentColor": "#0F172A",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.42/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.42/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-42.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.42/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.42/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-43",
+    "volume": 43,
+    "title": "Vol. 43 \u2014 Linear Pro",
+    "shortTitle": "Vol. 43 Linear",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "executive",
+    "accentColor": "#1D4ED8",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.43/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.43/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-43.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.43/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.43/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-44",
+    "volume": 44,
+    "title": "Vol. 44 \u2014 Kinetix Resume",
+    "shortTitle": "Vol. 44 Kinetix",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "swiss",
+    "accentColor": "#B45309",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.44/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.44/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-44.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.44/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.44/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-45",
+    "volume": 45,
+    "title": "Vol. 45 \u2014 Oxford Classic",
+    "shortTitle": "Vol. 45 Oxford",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "editorial",
+    "accentColor": "#0F766E",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.45/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.45/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-45.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.45/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.45/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-46",
+    "volume": 46,
+    "title": "Vol. 46 \u2014 Craft Folio",
+    "shortTitle": "Vol. 46 Craft",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "modern-sidebar",
+    "accentColor": "#4338CA",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.46/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.46/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-46.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.46/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.46/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-47",
+    "volume": 47,
+    "title": "Vol. 47 \u2014 Apex Executive",
+    "shortTitle": "Vol. 47 Apex",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "technical",
+    "accentColor": "#BE123C",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.47/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.47/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-47.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.47/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.47/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-48",
+    "volume": 48,
+    "title": "Vol. 48 \u2014 Aether Minimal",
+    "shortTitle": "Vol. 48 Aether",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "minimal",
+    "accentColor": "#374151",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.48/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.48/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-48.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.48/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.48/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-49",
+    "volume": 49,
+    "title": "Vol. 49 \u2014 Foundry Grid",
+    "shortTitle": "Vol. 49 Foundry",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "executive",
+    "accentColor": "#107C41",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.49/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.49/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-49.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.49/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.49/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-50",
+    "volume": 50,
+    "title": "Vol. 50 \u2014 Solstice Clean",
+    "shortTitle": "Vol. 50 Solstice",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "swiss",
+    "accentColor": "#0F172A",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.50/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.50/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-50.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.50/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.50/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-51",
+    "volume": 51,
+    "title": "Vol. 51 \u2014 Vector Studio",
+    "shortTitle": "Vol. 51 Vector",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "editorial",
+    "accentColor": "#1D4ED8",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.51/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.51/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-51.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.51/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.51/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-52",
+    "volume": 52,
+    "title": "Vol. 52 \u2014 Meridian Two-Col",
+    "shortTitle": "Vol. 52 Meridian",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "modern-sidebar",
+    "accentColor": "#B45309",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.52/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.52/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-52.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.52/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.52/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-53",
+    "volume": 53,
+    "title": "Vol. 53 \u2014 Slate Precision",
+    "shortTitle": "Vol. 53 Slate",
+    "series": "InDesign",
+    "category": "Tech & Engineering",
+    "archetype": "technical",
+    "accentColor": "#0F766E",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.53/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.53/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-53.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.53/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.53/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-54",
+    "volume": 54,
+    "title": "Vol. 54 \u2014 Canvas Editorial",
+    "shortTitle": "Vol. 54 Canvas",
+    "series": "InDesign",
+    "category": "Minimalist",
+    "archetype": "minimal",
+    "accentColor": "#4338CA",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.54/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.54/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-54.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.54/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.54/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-55",
+    "volume": 55,
+    "title": "Vol. 55 \u2014 Aura Modern",
+    "shortTitle": "Vol. 55 Aura",
+    "series": "InDesign",
+    "category": "Academic",
+    "archetype": "executive",
+    "accentColor": "#BE123C",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.55/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.55/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-55.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.55/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.55/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-56",
+    "volume": 56,
+    "title": "Vol. 56 \u2014 Vertex Technical",
+    "shortTitle": "Vol. 56 Vertex",
+    "series": "InDesign",
+    "category": "Executive",
+    "archetype": "swiss",
+    "accentColor": "#374151",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.56/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.56/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-56.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.56/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.56/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "id-vol-57",
+    "volume": 57,
+    "title": "Vol. 57 \u2014 Prism Creative",
+    "shortTitle": "Vol. 57 Prism",
+    "series": "InDesign",
+    "category": "Creative & Design",
+    "archetype": "editorial",
+    "accentColor": "#107C41",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.57/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Indesign (57)/Professional CV Resume Vol.57/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/id-vol-57.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.57/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Indesign (57)/Professional CV Resume Vol.57/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-01",
+    "volume": 1,
+    "title": "Vol. 01 \u2014 Summit Lead",
+    "shortTitle": "Vol. 01 Summit",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "modern-sidebar",
+    "accentColor": "#0F172A",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.1/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.1/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-01.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.1/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.1/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-02",
+    "volume": 2,
+    "title": "Vol. 02 \u2014 Cortex Engineer",
+    "shortTitle": "Vol. 02 Cortex",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "technical",
+    "accentColor": "#1D4ED8",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.2/02_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.2/03_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-02.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "02_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.2/02_Professional CV Resume.pdf"
+      },
+      {
+        "label": "03_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.2/03_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-03",
+    "volume": 3,
+    "title": "Vol. 03 \u2014 Noir Contrast",
+    "shortTitle": "Vol. 03 Noir",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "minimal",
+    "accentColor": "#B45309",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.3/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.3/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-03.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.3/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.3/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-04",
+    "volume": 4,
+    "title": "Vol. 04 \u2014 Executive Clarity",
+    "shortTitle": "Vol. 04 Executive",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "executive",
+    "accentColor": "#0F766E",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.4/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.4/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-04.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.4/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.4/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-05",
+    "volume": 5,
+    "title": "Vol. 05 \u2014 Swiss Architect",
+    "shortTitle": "Vol. 05 Swiss",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "swiss",
+    "accentColor": "#4338CA",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.5/03_Professional_CV_Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.5/04_Professional_CV_Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-05.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.5/03_Professional_CV_Resume.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.5/04_Professional_CV_Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-06",
+    "volume": 6,
+    "title": "Vol. 06 \u2014 Editorial Press",
+    "shortTitle": "Vol. 06 Editorial",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "editorial",
+    "accentColor": "#BE123C",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.6/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.6/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-06.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.6/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.6/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-07",
+    "volume": 7,
+    "title": "Vol. 07 \u2014 Modern Product",
+    "shortTitle": "Vol. 07 Modern",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "modern-sidebar",
+    "accentColor": "#374151",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.7/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.7/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-07.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.7/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.7/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-08",
+    "volume": 8,
+    "title": "Vol. 08 \u2014 Nordic Minimal",
+    "shortTitle": "Vol. 08 Nordic",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "technical",
+    "accentColor": "#107C41",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.8/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.8/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-08.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.8/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.8/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-09",
+    "volume": 9,
+    "title": "Vol. 09 \u2014 Atelier Serif",
+    "shortTitle": "Vol. 09 Atelier",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "minimal",
+    "accentColor": "#0F172A",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.9/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.9/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-09.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.9/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.9/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-10",
+    "volume": 10,
+    "title": "Vol. 10 \u2014 Tech Lead",
+    "shortTitle": "Vol. 10 Tech",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "executive",
+    "accentColor": "#1D4ED8",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.10/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.10/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-10.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.10/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.10/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-11",
+    "volume": 11,
+    "title": "Vol. 11 \u2014 Studio Director",
+    "shortTitle": "Vol. 11 Studio",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "swiss",
+    "accentColor": "#B45309",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.11/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.11/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-11.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.11/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.11/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-12",
+    "volume": 12,
+    "title": "Vol. 12 \u2014 Monograph Grid",
+    "shortTitle": "Vol. 12 Monograph",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "editorial",
+    "accentColor": "#0F766E",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.12/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.12/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-12.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.12/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.12/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-13",
+    "volume": 13,
+    "title": "Vol. 13 \u2014 Zurich Clean",
+    "shortTitle": "Vol. 13 Zurich",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "modern-sidebar",
+    "accentColor": "#4338CA",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.13/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.13/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-13.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.13/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.13/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-14",
+    "volume": 14,
+    "title": "Vol. 14 \u2014 Capital Brief",
+    "shortTitle": "Vol. 14 Capital",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "technical",
+    "accentColor": "#BE123C",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.14/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.14/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-14.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.14/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.14/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-15",
+    "volume": 15,
+    "title": "Vol. 15 \u2014 Vanguard Split",
+    "shortTitle": "Vol. 15 Vanguard",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "minimal",
+    "accentColor": "#374151",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.15/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.15/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-15.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.15/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Template Vol.15/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-16",
+    "volume": 16,
+    "title": "Vol. 16 \u2014 Linear Pro",
+    "shortTitle": "Vol. 16 Linear",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "executive",
+    "accentColor": "#107C41",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.16/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.16/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-16.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.16/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.16/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-17",
+    "volume": 17,
+    "title": "Vol. 17 \u2014 Kinetix Resume",
+    "shortTitle": "Vol. 17 Kinetix",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "swiss",
+    "accentColor": "#0F172A",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.17/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.17/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-17.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.17/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.17/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-18",
+    "volume": 18,
+    "title": "Vol. 18 \u2014 Oxford Classic",
+    "shortTitle": "Vol. 18 Oxford",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "editorial",
+    "accentColor": "#1D4ED8",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.18/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.18/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-18.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.18/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.18/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-19",
+    "volume": 19,
+    "title": "Vol. 19 \u2014 Craft Folio",
+    "shortTitle": "Vol. 19 Craft",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "modern-sidebar",
+    "accentColor": "#B45309",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.19/03_Professional CV Resume.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.19/04_Professional CV Resume.docx",
+    "thumbnail": "/thumbnails/ai-vol-19.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.19/03_Professional CV Resume.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.19/04_Professional CV Resume.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-20",
+    "volume": 20,
+    "title": "Vol. 20 \u2014 Apex Executive",
+    "shortTitle": "Vol. 20 Apex",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "technical",
+    "accentColor": "#0F766E",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.20/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.20/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-20.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.20/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.20/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-21",
+    "volume": 21,
+    "title": "Vol. 21 \u2014 Aether Minimal",
+    "shortTitle": "Vol. 21 Aether",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "minimal",
+    "accentColor": "#4338CA",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.21/03_Professional_CV_Resume_Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.21/04_Professional_CV_Resume_Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-21.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume_Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.21/03_Professional_CV_Resume_Template.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume_Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.21/04_Professional_CV_Resume_Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-22",
+    "volume": 22,
+    "title": "Vol. 22 \u2014 Foundry Grid",
+    "shortTitle": "Vol. 22 Foundry",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "executive",
+    "accentColor": "#BE123C",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.22/03_Professional_CV_Resume_Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.22/04_Professional_CV_Resume_Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-22.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional_CV_Resume_Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.22/03_Professional_CV_Resume_Template.pdf"
+      },
+      {
+        "label": "04_Professional_CV_Resume_Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.22/04_Professional_CV_Resume_Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-23",
+    "volume": 23,
+    "title": "Vol. 23 \u2014 Solstice Clean",
+    "shortTitle": "Vol. 23 Solstice",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "swiss",
+    "accentColor": "#374151",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.23/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.23/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-23.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.23/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.23/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-24",
+    "volume": 24,
+    "title": "Vol. 24 \u2014 Vector Studio",
+    "shortTitle": "Vol. 24 Vector",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "editorial",
+    "accentColor": "#107C41",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.24/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.24/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-24.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.24/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.24/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-25",
+    "volume": 25,
+    "title": "Vol. 25 \u2014 Meridian Two-Col",
+    "shortTitle": "Vol. 25 Meridian",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "modern-sidebar",
+    "accentColor": "#0F172A",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.25/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.25/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-25.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.25/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.25/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-26",
+    "volume": 26,
+    "title": "Vol. 26 \u2014 Slate Precision",
+    "shortTitle": "Vol. 26 Slate",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "technical",
+    "accentColor": "#1D4ED8",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.26/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.26/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-26.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.26/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.26/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-27",
+    "volume": 27,
+    "title": "Vol. 27 \u2014 Canvas Editorial",
+    "shortTitle": "Vol. 27 Canvas",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "minimal",
+    "accentColor": "#B45309",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.27/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.27/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-27.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.27/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.27/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-28",
+    "volume": 28,
+    "title": "Vol. 28 \u2014 Aura Modern",
+    "shortTitle": "Vol. 28 Aura",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "executive",
+    "accentColor": "#0F766E",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.28/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.28/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-28.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.28/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.28/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-29",
+    "volume": 29,
+    "title": "Vol. 29 \u2014 Vertex Technical",
+    "shortTitle": "Vol. 29 Vertex",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "swiss",
+    "accentColor": "#4338CA",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.29/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.29/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-29.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.29/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.29/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-30",
+    "volume": 30,
+    "title": "Vol. 30 \u2014 Prism Creative",
+    "shortTitle": "Vol. 30 Prism",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "editorial",
+    "accentColor": "#BE123C",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.30/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.30/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-30.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.30/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.30/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-31",
+    "volume": 31,
+    "title": "Vol. 31 \u2014 Summit Lead",
+    "shortTitle": "Vol. 31 Summit",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "modern-sidebar",
+    "accentColor": "#374151",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.31/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.31/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-31.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.31/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.31/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-32",
+    "volume": 32,
+    "title": "Vol. 32 \u2014 Cortex Engineer",
+    "shortTitle": "Vol. 32 Cortex",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "technical",
+    "accentColor": "#107C41",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.32/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.32/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-32.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.32/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.32/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-33",
+    "volume": 33,
+    "title": "Vol. 33 \u2014 Noir Contrast",
+    "shortTitle": "Vol. 33 Noir",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "minimal",
+    "accentColor": "#0F172A",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.33/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.33/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-33.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.33/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.33/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-34",
+    "volume": 34,
+    "title": "Vol. 34 \u2014 Executive Clarity",
+    "shortTitle": "Vol. 34 Executive",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "executive",
+    "accentColor": "#1D4ED8",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.34/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.34/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-34.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.34/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.34/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-35",
+    "volume": 35,
+    "title": "Vol. 35 \u2014 Swiss Architect",
+    "shortTitle": "Vol. 35 Swiss",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "swiss",
+    "accentColor": "#B45309",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.35/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.35/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-35.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.35/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.35/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-36",
+    "volume": 36,
+    "title": "Vol. 36 \u2014 Editorial Press",
+    "shortTitle": "Vol. 36 Editorial",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "editorial",
+    "accentColor": "#0F766E",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.36/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.36/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-36.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.36/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.36/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-37",
+    "volume": 37,
+    "title": "Vol. 37 \u2014 Modern Product",
+    "shortTitle": "Vol. 37 Modern",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "modern-sidebar",
+    "accentColor": "#4338CA",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.37/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.37/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-37.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.37/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.37/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-38",
+    "volume": 38,
+    "title": "Vol. 38 \u2014 Nordic Minimal",
+    "shortTitle": "Vol. 38 Nordic",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "technical",
+    "accentColor": "#BE123C",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.38/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.38/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-38.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.38/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.38/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-39",
+    "volume": 39,
+    "title": "Vol. 39 \u2014 Atelier Serif",
+    "shortTitle": "Vol. 39 Atelier",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "minimal",
+    "accentColor": "#374151",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.39/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.39/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-39.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.39/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.39/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-40",
+    "volume": 40,
+    "title": "Vol. 40 \u2014 Tech Lead",
+    "shortTitle": "Vol. 40 Tech",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "executive",
+    "accentColor": "#107C41",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.40/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.40/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-40.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.40/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.40/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-41",
+    "volume": 41,
+    "title": "Vol. 41 \u2014 Studio Director",
+    "shortTitle": "Vol. 41 Studio",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "swiss",
+    "accentColor": "#0F172A",
+    "atsScore": 95,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.41/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.41/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-41.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.41/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.41/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-42",
+    "volume": 42,
+    "title": "Vol. 42 \u2014 Monograph Grid",
+    "shortTitle": "Vol. 42 Monograph",
+    "series": "Illustrator",
+    "category": "Minimalist",
+    "archetype": "editorial",
+    "accentColor": "#1D4ED8",
+    "atsScore": 96,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.42/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.42/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-42.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.42/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.42/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-43",
+    "volume": 43,
+    "title": "Vol. 43 \u2014 Zurich Clean",
+    "shortTitle": "Vol. 43 Zurich",
+    "series": "Illustrator",
+    "category": "Academic",
+    "archetype": "modern-sidebar",
+    "accentColor": "#B45309",
+    "atsScore": 97,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.43/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.43/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-43.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.43/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.43/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-44",
+    "volume": 44,
+    "title": "Vol. 44 \u2014 Capital Brief",
+    "shortTitle": "Vol. 44 Capital",
+    "series": "Illustrator",
+    "category": "Executive",
+    "archetype": "technical",
+    "accentColor": "#0F766E",
+    "atsScore": 98,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.44/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.44/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-44.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.44/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.44/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-45",
+    "volume": 45,
+    "title": "Vol. 45 \u2014 Vanguard Split",
+    "shortTitle": "Vol. 45 Vanguard",
+    "series": "Illustrator",
+    "category": "Creative & Design",
+    "archetype": "minimal",
+    "accentColor": "#4338CA",
+    "atsScore": 99,
+    "pages": 1,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.45/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.45/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-45.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.45/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.45/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-vol-46",
+    "volume": 46,
+    "title": "Vol. 46 \u2014 Linear Pro",
+    "shortTitle": "Vol. 46 Linear",
+    "series": "Illustrator",
+    "category": "Tech & Engineering",
+    "archetype": "executive",
+    "accentColor": "#BE123C",
+    "atsScore": 94,
+    "pages": 2,
+    "hasPdf": true,
+    "hasDocx": true,
+    "pdfRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.46/03_Professional CV Resume Template.pdf",
+    "docxRelPath": "Adobe Illustrator (46)/Professional CV Resume Vol.46/04_Professional CV Resume Template.docx",
+    "thumbnail": "/thumbnails/ai-vol-46.webp",
+    "variantCount": 1,
+    "variants": [
+      {
+        "label": "03_Professional CV Resume Template",
+        "format": "pdf",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.46/03_Professional CV Resume Template.pdf"
+      },
+      {
+        "label": "04_Professional CV Resume Template",
+        "format": "docx",
+        "relPath": "Adobe Illustrator (46)/Professional CV Resume Vol.46/04_Professional CV Resume Template.docx"
+      }
+    ],
+    "featured": false
+  }
+]
