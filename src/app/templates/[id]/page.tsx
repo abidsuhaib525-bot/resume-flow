@@ -6,7 +6,7 @@ import templatesData from "@/data/templates.json";
 import { TemplateItem } from "@/types/resume";
 
 const ALL_TEMPLATES = templatesData as TemplateItem[];
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://resumeflow.studio";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://resumeflow-cv.netlify.app";
 
 export function generateStaticParams() {
   return ALL_TEMPLATES.map((t) => ({ id: t.id }));

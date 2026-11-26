@@ -4,7 +4,7 @@ import "./globals.css";
 import { AppProvider } from "@/lib/store";
 import { Navbar, MobileBottomNav } from "@/components/Navbar";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://resumeflow.studio";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://resumeflow-cv.netlify.app";
 
 const jakarta = Plus_Jakarta_Sans({
   subsets: ["latin"],

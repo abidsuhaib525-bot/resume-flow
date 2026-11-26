@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import templatesData from "@/data/templates.json";
 import { TemplateItem } from "@/types/resume";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://resumeflow.studio";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://resumeflow-cv.netlify.app";
 const ALL_TEMPLATES = templatesData as TemplateItem[];
 
 export default function sitemap(): MetadataRoute.Sitemap {
